@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-intial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KundanMishra/nodejs-intial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KundanMishra/nodejs-intial/issues"
+  },
+  "homepage": "https://github.com/KundanMishra/nodejs-intial#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
